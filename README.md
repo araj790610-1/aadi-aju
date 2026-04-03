@@ -1,2 +1,3 @@
 # aadi-aju
-this is my git repository.
+This is my git Repository.
+Author.Aditya raj
